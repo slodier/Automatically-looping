@@ -6,5 +6,5 @@
 ```
 layoutUI(imgArr, selector);
 ```
-imgArr: 轮播图片数组
+imgArr: 轮播图片数组        
 selector: 父元素, 即需要添加进的元素
